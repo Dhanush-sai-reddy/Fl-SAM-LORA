@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Federated Learning with SAM+LoRA on Fed-KITS Dataset
 
 This project implements federated learning using the Segment Anything Model (SAM) with Low-Rank Adaptation (LoRA) on the KiTS (Kidney Tumor Segmentation) dataset.
@@ -283,3 +284,7 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 ## Contact
 
 For questions or issues, please open a GitHub issue.
+=======
+# Fl-SAM-LORA
+Federated LoRA-tuned Segment Anything Model for privacy-preserving visual learning across distributed clients
+>>>>>>> 19fd3e49d4e42ad677d804f78bd4812ed80d6ad9
