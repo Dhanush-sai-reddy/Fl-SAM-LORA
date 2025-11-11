@@ -1,0 +1,22 @@
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Flower federated learning
+flwr>=1.5.0
+flwr-datasets>=0.0.2
+
+# Segment Anything Model
+segment-anything @ git+https://github.com/facebookresearch/segment-anything.git
+
+# Medical imaging
+nibabel>=5.0.0
+SimpleITK>=2.2.0
+
+# Utilities
+tqdm>=4.65.0
+matplotlib>=3.7.0
+Pillow>=9.5.0
+scikit-image>=0.20.0
