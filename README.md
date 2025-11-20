@@ -31,8 +31,7 @@ python preprocess_data.py \
     --output_root ./data/kits_preprocessed \
     --num_clients 5
 
-# Need the KiTS dataset?
-# (Colab/Kaggle quick helper)
+#quick download
 pip install kagglehub
 python - <<'PY'
 import kagglehub
